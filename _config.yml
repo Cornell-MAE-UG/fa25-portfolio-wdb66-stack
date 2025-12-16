@@ -8,11 +8,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : William Baumoel
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
+name                     : William Baumoel
+description              : William Baumoel - Projects and CV 
 baseurl                  : "/fa25-portfolio-wdb66-stack/" # Set this to your repo name 
 
 # Theme and Style
