@@ -1,16 +1,14 @@
 ---
 layout: project
-title: Radio CAD Rendering
-description: Advanced CAD Project
-technologies: [Autodesk Fusion]
-image: /assets/images/radio-machine-cad.jpg
+title: MAE 4272 Wind Turbine Blade
+description: Fluid Mechanism Design
+technologies: [Autodesk Inventor, MATLAB]
+image: /assets/images/Blade.png
 ---
 
-For a class, we were asked to CAD a complex object. This design was...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. 
+For MAE 4272 Fluids and Heat Transfer Lab, we were tasked with designing a wind turbine blade to operate in our large wind tunnel. The wind velocity in the wind tunnel were provided to us using a Weibull Distribution which indicated that the most frequent windspeed was 4.76 m/s. There were additional geometric constraints to our design such as a max blade length of 6 inches and integrating to a standard hub geometry. Our blade was designed to output the maximum power at a windspeed 5.36 m/s and 2866 RPM.
 
-Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
-
-![Shaded rendering of earlier version]({{ "/assets/images/radio-machine.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
+![Shaded rendering of earlier version]({{ "/assets/images/Weibull.png" | relative_url }}){: .inline-image-r style="width: 200px"}
 
 Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
 
