@@ -1,13 +1,14 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
-image: /assets/images/spaceship-design.jpg
+title: MAE 4300
+description: Boeing 737 Portfolio
+image: /assets/images/B737.png
 ---
 
+In MAE 4300: Engineering Ethics, we spent the semester doing a case-study on the Boeing 737-Max crashes that were a cause of poor engineering and managerial decisions.
 
-In 2021, NASA asked me to design a spaceship...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+We first focused on the engineering failures that led to these disasters. We learned how the release of the Airbus A320-neo introduced major pressure on Boeing as they did not have an airplane that could compete with the A320-neo's fuel efficiency at its size. Poor engineering decisions fueled by executive pressure led to dangerous designs and hundreds of deaths.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+We learned about the engineering standards and regulations that are set in place to help avoid disasters such as these, and how we as future engineers have the responsibility to follow these regulations and make any concerns aware. We also learned how every person involved had a responsibility for these casualties. The Boeing executives pressured the engineers with rushed timelines and cheap solutions, which led to the engineers making poor engineering decisions in favor of these executive pressures. 
 
+We learned that, as engineers, we have a responsibility to follow the engineering standards and regulations and maintain safety of our designs as the highest priority. The examples of the Boeing 737-Max disasters served as a great example of how failure to follow these guidelines and priorities can lead to catastrophic events.
